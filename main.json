@@ -133,7 +133,7 @@
         {
          "columns":6,
          "firstgid":1,
-         "image":"..\/tiles\/bat.32x32.gif",
+         "image":".\/tiles\/bat.32x32.gif",
          "imageheight":64,
          "imagewidth":192,
          "margin":0,
@@ -195,7 +195,7 @@
         {
          "columns":37,
          "firstgid":13,
-         "image":"..\/tiles\/clouds.png",
+         "image":".\/tiles\/clouds.png",
          "imageheight":200,
          "imagewidth":1200,
          "margin":0,
@@ -208,7 +208,7 @@
         {
          "columns":62,
          "firstgid":235,
-         "image":"..\/tiles\/clouds._bigger.png",
+         "image":".\/tiles\/clouds._bigger.png",
          "imageheight":500,
          "imagewidth":2000,
          "margin":0,
@@ -221,7 +221,7 @@
         {
          "columns":7,
          "firstgid":1165,
-         "image":"..\/tiles\/PixVoxel_logo_vivid.png",
+         "image":".\/tiles\/PixVoxel_logo_vivid.png",
          "imageheight":250,
          "imagewidth":250,
          "margin":0,
@@ -234,7 +234,7 @@
         {
          "columns":16,
          "firstgid":1214,
-         "image":"..\/tiles\/tiles_png_structures_rc3-mullana-overlay.png",
+         "image":".\/tiles\/tiles_png_structures_rc3-mullana-overlay.png",
          "imageheight":1024,
          "imagewidth":512,
          "margin":0,
@@ -247,7 +247,7 @@
         {
          "columns":16,
          "firstgid":1726,
-         "image":"..\/tiles\/tiles_png_structures_rc3-mullana-functionary.png",
+         "image":".\/tiles\/tiles_png_structures_rc3-mullana-functionary.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -260,7 +260,7 @@
         {
          "columns":16,
          "firstgid":1982,
-         "image":"..\/tiles\/tiles_png_inventory_dk_transports.png",
+         "image":".\/tiles\/tiles_png_inventory_dk_transports.png",
          "imageheight":96,
          "imagewidth":512,
          "margin":0,
